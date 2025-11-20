@@ -502,7 +502,7 @@ body {
 
 /* background-image.css */
 body {
-    --background-image-url: url('');
+    --background-image-url: url('https://wallpapers-clan.com/wp-content/uploads/2025/05/ghost-of-tsushima-samurai-sunset-scene-desktop-wallpaper-cover.jpg');
 }
 
 @property --background-image {
