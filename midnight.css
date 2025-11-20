@@ -1865,7 +1865,7 @@ body {
         transform: scale(0.9);
     }
     .winButtonClose_c38106::after {
-        background-color: var(--dnd) !important;
+        background-color: var(--idle) !important;
     }
     .winButtonMinMax_c38106:nth-child(1)::after {
         background-color: var(--idle) !important;
